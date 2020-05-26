@@ -860,7 +860,7 @@
                         <accept>.csv</accept>
                         <select>Single</select>
                         <initial-visibility>Visible</initial-visibility>
-                        <id-optional></id-optional>
+                        <id-optional>filechooser</id-optional>
                     </properties>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
