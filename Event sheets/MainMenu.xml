@@ -417,6 +417,9 @@
                             <param id="2" name="X">224</param>
                             <param id="3" name="Y">96</param>
                         </action>
+                        <action id="17" name="Execute Javascript" sid="633282825002353" type="Browser">
+                            <param id="0" name="Javascript">&quot;document.getElementById(&apos;filechooser&apos;).focus();&quot;</param>
+                        </action>
                     </actions>
                 </event-block>
                 <event-block sid="7985503632529348">
