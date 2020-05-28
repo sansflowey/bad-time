@@ -1,9 +1,11 @@
 # Jumps #
 Some attacks needs to jump to other lines for them to work.
-There are commands to provide this functionalities.
+There are commands to provide this functionality.
 
 ### Labels ###
-You can create a label instead of calling a function by putting the desired label name in colum 2 and prefixing it with ":", so you can know what does that line. This can be a little confusing se [here](Examples/Labels.csv) is an example of how to use it.
+You can create a label instead of calling a function by putting the desired label name in column 2 and prefixing it with ":". The label will allow you to peform jumps to this line by using the label name instead of the absolute line number. You can see an example of this [here](Examples/Labels.csv).
+
+Note that the time delay in column 1 is still respected on labels.
 
 ### JMPABS (Jump absolute) ###
 Jump to a specific line on the attack

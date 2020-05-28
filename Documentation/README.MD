@@ -1,8 +1,8 @@
 # Basic syntax
-Custom attacks are wirten in a *.csv file
+Custom attacks are written in a *.csv file
 * The first column indicates a delay in seconds
-* The second columns defines the function name
-* The next columns defines the arguments of the function
+* The second column defines the function name
+* Additional columns define the arguments of the function
 
 ## Categories
 * [Generalities](Generalities.md)

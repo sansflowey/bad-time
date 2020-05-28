@@ -122,7 +122,7 @@ Creates many platforms
 * Spacing
 
 ### HeartMode ###
-Changes the behavior of the heart. 0 is from red, 1 is for blue.
+Changes the behavior of the heart. 0 is for red, 1 is for blue.
 
 * Mode
 
