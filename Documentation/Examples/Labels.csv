@@ -1,0 +1,6 @@
+0,SansText,Line 1,
+0,:LineTwo,,
+0,SansText,Line 3,
+0,SansText,Moving to line 2,
+0,JMPABS,LineTwo,
+0,EndAttack,,

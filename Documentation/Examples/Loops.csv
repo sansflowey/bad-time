@@ -1,0 +1,13 @@
+0,SET,LoopVar,10,
+0,SansText,The lines 5 to 7 are the code inside the loop,,
+0,SansText,Iterating 10 times,,
+0,:StartLoop,,,
+0,JMPZ,EndLoop,$LoopVar,
+0,SUB,LoopVar,$LoopVar,1
+0,SansText,Iterations left:,,
+0,SansText,$LoopVar,,
+0,JMPABS,StartLoop,,
+0,:EndLoop,,,
+0,SansText,No iterations left,,
+0,SansText,Loop completed,,
+0,EndAttack,,,
