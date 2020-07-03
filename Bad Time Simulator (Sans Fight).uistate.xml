@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout active="1" order="0">BattleScreen</layout>
+        <event-sheet order="1">Globals</event-sheet>
+    </open-tabs>
+    <properties>
+        <property expanded="1" name="About" />
+        <property expanded="1" name="Project settings" />
+        <property expanded="0" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="1">
+        <family expanded="0" name="BoneStab" />
+        <family expanded="0" name="Bone" />
+        <family expanded="0" name="RPGText" />
+        <family expanded="0" name="UIButtons" />
+        <family expanded="0" name="Attack9Patch" />
+        <family expanded="0" name="AttackSprite" />
+        <family expanded="0" name="AttackTiled" />
+        <family expanded="0" name="TouchButton" />
+    </families-expanded>
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="1" path="object-folder/Singletons/" />
+        <folder expanded="1" path="object-folder/BattleUI/" />
+        <folder expanded="1" path="object-folder/Enemies/" />
+        <folder expanded="1" path="object-folder/Attacks/" />
+        <folder expanded="1" path="object-folder/Timeline/" />
+        <folder expanded="1" path="object-folder/Fonts/" />
+        <folder expanded="1" path="object-folder/TouchUI/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="1" path="event-folder/" />
+        <folder expanded="1" path="file-folder/" />
+        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="1" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/VPad/" />
+        <folder expanded="1" path="animation-folder/UIAct/" />
+        <folder expanded="1" path="animation-folder/UIFight/" />
+        <folder expanded="1" path="animation-folder/UIItem/" />
+        <folder expanded="1" path="animation-folder/UIMercy/" />
+        <folder expanded="1" path="animation-folder/Target/" />
+        <folder expanded="1" path="animation-folder/HP/" />
+        <folder expanded="1" path="animation-folder/KR/" />
+        <folder expanded="1" path="animation-folder/TargetChoice/" />
+        <folder expanded="1" path="animation-folder/Strike/" />
+        <folder expanded="1" path="animation-folder/SansHead/" />
+        <folder expanded="1" path="animation-folder/SansBody/" />
+        <folder expanded="1" path="animation-folder/SansLegs/" />
+        <folder expanded="1" path="animation-folder/SansSweat/" />
+        <folder expanded="1" path="animation-folder/SansTorso/" />
+        <folder expanded="1" path="animation-folder/SpeechBubble/" />
+        <folder expanded="1" path="animation-folder/GasterBlaster/" />
+        <folder expanded="1" path="animation-folder/MenuBoneBottom/" />
+        <folder expanded="1" path="animation-folder/MenuBoneLeft/" />
+        <folder expanded="1" path="animation-folder/TouchA/" />
+        <folder expanded="1" path="animation-folder/TouchB/" />
+        <folder expanded="1" path="animation-folder/TouchDPad/" />
+        <folder expanded="1" path="animation-folder/PlayerHeart/" />
+        <folder expanded="1" path="animation-folder/MenuItem/" />
+        <folder expanded="1" path="animation-folder/HeartShard/" />
+        <folder expanded="1" path="animation-folder/PlayerHitbox/" />
+    </folders-expanded>
+</c2uistate>
